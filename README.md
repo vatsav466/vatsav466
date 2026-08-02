@@ -1,3 +1,10 @@
+<div align="center">
+
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sri%20Satya%20Nikhil&fontSize=42&fontAlignY=32&desc=Building%20Digital%20Experiences%20|%20One%20Line%20at%20a%20Time&descAlignY=51&descAlign=50&animation=twinkling" width="100%"/>
+
+
+
 <h1 align="center">Hi 👋, I'm Maddipati Srivatsav</h1>
 <h3 align="center">Data Analyst & Python Developer | Building automated data pipelines, APIs & real-time dashboards</h3>
 
