@@ -1,7 +1,8 @@
 <div align="center">
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=%Hi 👋, I'm Maddipati Srivatsav%&fontSize=42&fontAlignY=32&desc=Building%20Digital%20Experiences%20|%20One%20Line%20at%20a%20Time&descAlignY=51&descAlign=50&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20%F0%9F%91%8B,%20I'm%20Maddipati%20Srivatsav&fontSize=42&fontAlignY=32&desc=Building%20Digital%20Experiences%20%7C%20One%20Line%20at%20a%20Time&descAlignY=51&descAlign=50&animation=twinkling" width="100%"/>
 </div>
+
 <h3 align="center">Data Analyst & Python Developer | Building automated data pipelines, APIs & real-time dashboards</h3>
 
 <p align="center">
@@ -19,7 +20,7 @@
 - 📡 Built **real-time IoT monitoring dashboards** (HPCL project) processing live industrial device data
 - 📊 I love turning messy data into **clean pipelines, KPIs, and dashboards** that decision-makers actually use
 - 🌱 Currently deepening my skills in **data modeling, query optimization, and scalable backend architecture**
-- 📫 Reach me at **vatsavs906@gmail.com** 
+- 📫 Reach me at **vatsavs906@gmail.com**
 - 🔗 Connect with me on [LinkedIn](https://linkedin.com/in/sri-vatsav-48445a343)
 
 ---
@@ -64,8 +65,8 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&count_private=true&include_all_commits=true&theme=dracula&hide_border=false" height="165" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="165" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vatsav466&show_icons=true&count_private=true&include_all_commits=true&theme=dracula&hide_border=false" height="165" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vatsav466&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="165" alt="languages graph" />
 </div>
 
 ---
@@ -84,7 +85,7 @@
 <br clear="both">
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/snake-output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/vatsav466/vatsav466/output/snake.svg" alt="Snake animation" />
 </p>
 
 <p align="center"><i>⭐️ Thanks for stopping by — always open to interesting Data Analytics / Python opportunities!</i></p>
