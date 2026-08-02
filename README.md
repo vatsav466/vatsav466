@@ -85,6 +85,10 @@
 </tr>
 <tr>
 <td align="center" width="110">
+<img src="https://miro.medium.com/v2/resize:fit:1200/1*QtR4XDH9SgJRmRx08Ngzkg.png" height="45" alt="ci/cd logo" /><br/>
+<sub><b>CI/CD Pipelines</b></sub>
+</td>
+<td align="center" width="110">
 <img src="https://cdn.simpleicons.org/duckdb/FFF000" height="45" alt="duckdb logo" /><br/>
 <sub><b>DuckDB</b></sub>
 </td>
@@ -96,21 +100,20 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" height="45" alt="apache airflow logo" /><br/>
 <sub><b>Apache Airflow</b></sub>
 </td>
+</tr>
+<tr>
 <td align="center" width="110">
 <img src="https://cdn.simpleicons.org/apachesuperset/00A699" height="45" alt="apache superset logo" /><br/>
 <sub><b>Apache Superset</b></sub>
 </td>
-</tr>
-<tr>
 <td align="center" width="110">
-<img src="https://avatars.githubusercontent.com/u/15024225?s=200&v=4" height="45" alt="thingsboard logo" /><br/>
+<img src="https://play-lh.googleusercontent.com/BXTxLRlIFqL4166N8T96wE39rbKf3-cTp5JSBOtShfyxeUVwFNtJIhGNnSZkIIag0GDuRBfBVVBztzLFlEb1" height="45" alt="thingsboard logo" /><br/>
 <sub><b>ThingsBoard</b></sub>
 </td>
 <td align="center" width="110">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="linux logo" /><br/>
 <sub><b>Linux</b></sub>
 </td>
-<td align="center" width="110"></td>
 <td align="center" width="110"></td>
 </tr>
 </table>
