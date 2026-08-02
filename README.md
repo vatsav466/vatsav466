@@ -157,10 +157,10 @@
 
 ### 🏆 GitHub Trophies
 
+
 <div align="center">
-  <a href="https://github.com/vatsav466/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=vatsav466&theme=dracula&column=7&margin-w=15&margin-h=15&no-bg=true" alt="vatsav466 trophies" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=vatsav466&show_icons=true&count_private=true&include_all_commits=true&theme=dracula&hide_border=false" height="165" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vatsav466&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="165" alt="languages graph" />
 </div>
 
 ---
