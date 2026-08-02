@@ -1,4 +1,13 @@
 <div align="center">
+  <a href="https://linkedin.com/in/sri-vatsav-48445a343" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
+  </a>
+  <a href="mailto:vatsavs906@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
+  </a>
+</div>
+
+<div align="center">
 <!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20%F0%9F%91%8B,%20I'm%20Maddipati%20Srivatsav&fontSize=42&fontAlignY=32&desc=Building%20Digital%20Experiences%20%7C%20One%20Line%20at%20a%20Time&descAlignY=51&descAlign=50&animation=twinkling" width="100%"/>
 </div>
@@ -144,11 +153,12 @@
 </table>
 
 ---
+
 ### 🏆 Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=vatsav466&theme=onedark&column=9&margin-w=8&margin-h=8&no-frame=false" alt="GitHub Trophies" />
 </div>
-### 
+
 ---
 
 ### 👻 Pac-Man Contribution Graph
@@ -165,17 +175,6 @@
 </div>
 
 ---
-
-### 🌐 Connect With Me
-
-<div align="center">
-  <a href="https://linkedin.com/in/sri-vatsav-48445a343" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
-  </a>
-  <a href="mailto:vatsavs906@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
-  </a>
-</div>
 
 <br/>
 <div align="center">
