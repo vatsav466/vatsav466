@@ -124,6 +124,16 @@
 
 ---
 
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <a href="https://github.com/vatsav466" target="_blank">
+    <img src="https://github-profile-trophies.vercel.app/?username=vatsav466&theme=dracula&no-frame=false&margin-w=15" alt="vatsav466 GitHub Trophies" />
+  </a>
+</div>
+
+---
+
 ### 📈 GitHub Stats
 
 <div align="center">
