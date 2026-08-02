@@ -190,4 +190,4 @@
   <img src="https://raw.githubusercontent.com/vatsav466/vatsav466/output/snake.svg" alt="Snake animation" />
 </p>
 
-<p align="center"><i>⭐️ Thanks for stopping by — always open to interesting Data Analytics / Python opportunities!</i></p>
+<p align="center"><i>⭐️Always open to interesting Data Analytics/Python opportunities!⭐️</i></p>
