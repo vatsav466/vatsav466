@@ -16,7 +16,7 @@
 - 📡 Built **real-time IoT monitoring dashboards** (HPCL project) processing live industrial device data
 - 📊 I love turning messy data into **clean pipelines, KPIs, and dashboards** that decision-makers actually use
 - 🌱 Currently deepening my skills in **data modeling, query optimization, and scalable backend architecture**
-- 📫 Reach me at **vatsavs906@gmail.com** 
+- 📫 Reach me at **vatsavs906@gmail.com**
 - 🔗 Connect with me on [LinkedIn](https://linkedin.com/in/sri-vatsav-48445a343)
 
 ---
