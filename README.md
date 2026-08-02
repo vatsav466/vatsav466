@@ -14,12 +14,6 @@
   <img src="https://img.shields.io/badge/📍-Hyderabad,%20India-informational?style=for-the-badge&color=444444" />
   <img src="https://img.shields.io/badge/Experience-3%2B%20Years-informational?style=for-the-badge&color=444444" />
   <img src="https://img.shields.io/badge/Open%20to-Work-success?style=for-the-badge&color=2E8B57" />
-  <a href="https://linkedin.com/in/sri-vatsav-48445a343" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="LinkedIn" />
-  </a>
-  <a href="mailto:vatsavs906@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="Gmail" />
-  </a>
 </p>
 </td>
 </tr>
@@ -151,15 +145,25 @@
 
 ---
 
-### 🏆 GitHub Stats & Trophies
+### 📈 GitHub Stats
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=vatsav466&locale=en&mode=daily&theme=onedark&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-  <img src="https://github-profile-trophy.vercel.app/?username=vatsav466&theme=onedark&column=4&margin-w=8&margin-h=8&no-frame=false" height="150" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vatsav466&show_icons=true&theme=dracula&hide_border=false" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vatsav466&layout=compact&theme=dracula&hide_border=false" height="165" alt="Top Languages" />
+</div>
+
+---
+
+### 🏆 Trophies
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/vatsav466/vatsav466/trophy-output/trophy.svg" height="150" alt="GitHub Trophies" />
 </div>
 
 ---
 
 ### 👻 Pac-Man Contribution Graph
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/vatsav466/vatsav466/output/pacman-contribution-graph.svg" alt="Pac-Man contribution graph" />
 </div>
@@ -167,11 +171,23 @@
 ---
 
 ### 🐍 Contribution Snake
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/vatsav466/vatsav466/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
+
+### 🌐 Connect With Me
+
+<div align="center">
+  <a href="https://linkedin.com/in/sri-vatsav-48445a343" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
+  </a>
+  <a href="mailto:vatsavs906@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
+  </a>
+</div>
 
 <br/>
 <div align="center">
