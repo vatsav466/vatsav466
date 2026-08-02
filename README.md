@@ -104,7 +104,7 @@
 </td>
 <td align="center" width="65">
 <a href="https://about.gitlab.com/topics/ci-cd/" target="_blank">
-  <img src="https://miro.medium.com/v2/resize:fit:1200/1*QtR4XDH9SgJRmRx08Ngzkg.png" height="35" alt="ci/cd logo" />
+  <img src="https://cdn.simpleicons.org/gitlab/FC6D26" height="35" alt="ci/cd logo" />
 </a><br/>
 <sub><b>CI/CD</b></sub>
 </td>
@@ -136,7 +136,7 @@
 </td>
 <td align="center" width="65">
 <a href="https://thingsboard.io/" target="_blank">
-  <img src="https://play-lh.googleusercontent.com/BXTxLRlIFqL4166N8T96wE39rbKf3-cTp5JSBOtShfyxeUVwFNtJIhGNnSZkIIag0GDuRBfBVVBztzLFlEb1" height="35" alt="thingsboard logo" />
+  <img src="https://cdn.simpleicons.org/thingsboard/135CFB" height="35" alt="thingsboard logo" />
 </a><br/>
 <sub><b>ThingsBoard</b></sub>
 </td>
@@ -148,6 +148,17 @@
 </td>
 </tr>
 </table>
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vatsav466&show_icons=true&theme=dracula&hide_border=false" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vatsav466&layout=compact&theme=dracula&hide_border=false" height="165" alt="Top Languages" />
+</div>
+
+---
 
 ### 🏆 Trophies
 
@@ -163,8 +174,16 @@
   <img src="https://raw.githubusercontent.com/vatsav466/vatsav466/output/pacman-contribution-graph.svg" alt="Pac-Man contribution graph" />
 </div>
 
+---
 
-<br/>
+### 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/vatsav466/vatsav466/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+---
+
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 </div>
