@@ -157,8 +157,22 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vatsav466&show_icons=true&count_private=true&include_all_commits=true&theme=dracula&hide_border=false" height="165" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vatsav466&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="165" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vatsav466&show_icons=true&theme=dracula&hide_border=false" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vatsav466&layout=compact&theme=dracula&hide_border=false" height="165" alt="Top Languages" />
+</div>
+
+---
+
+### 🏆 Trophies & Activity Streak
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vatsav466&theme=dracula&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vatsav466&theme=dracula&hide_border=false" height="150" alt="GitHub Streak" />
 </div>
 
 ---
@@ -167,18 +181,14 @@
 
 <div align="center">
   <a href="https://linkedin.com/in/sri-vatsav-48445a343" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
   <a href="mailto:vatsavs906@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
   </a>
 </div>
 
-<br clear="both">
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vatsav466/vatsav466/output/snake.svg" alt="Snake animation" />
-</p>
+<br/>
 
 <div align="center">
 
@@ -189,14 +199,3 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=vatsav466&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-  <img src="https://github-profile-trophy.vercel.app/?username=vatsav466&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="trophy graph" />
-</div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vatsav466/vatsav466/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vatsav466/vatsav466/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vatsav466/vatsav466/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
