@@ -1,9 +1,18 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sri%20Satya%20Nikhil&fontSize=42&fontAlignY=32&desc=Building%20Digital%20Experiences%20|%20One%20Line%20at%20a%20Time&descAlignY=51&descAlign=50&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Maddipati%20Srivatsav&fontSize=42&fontAlignY=32&desc=Data%20Analyst%20%26%20Python%20Developer&descAlignY=51&descAlign=50&animation=twinkling" width="100%"/>
 
+<h1 align="center">Hi 👋, I'm Maddipati Srivatsav</h1>
+<h3 align="center">Data Analyst & Python Developer</h3>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/📍-Hyderabad,%20India-informational?style=for-the-badge&color=444444" />
+  <img src="https://img.shields.io/badge/Experience-3%2B%20Years-informational?style=for-the-badge&color=444444" />
+  <img src="https://img.shields.io/badge/Open%20to-Work-success?style=for-the-badge&color=2E8B57" />
+</p>
+
+</div>
 
 <h1 align="center">Hi 👋, I'm Maddipati Srivatsav</h1>
 <h3 align="center">Data Analyst & Python Developer | Building automated data pipelines, APIs & real-time dashboards</h3>
