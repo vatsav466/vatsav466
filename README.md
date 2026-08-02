@@ -14,12 +14,6 @@
   <img src="https://img.shields.io/badge/📍-Hyderabad,%20India-informational?style=for-the-badge&color=444444" />
   <img src="https://img.shields.io/badge/Experience-3%2B%20Years-informational?style=for-the-badge&color=444444" />
   <img src="https://img.shields.io/badge/Open%20to-Work-success?style=for-the-badge&color=2E8B57" />
-  <a href="https://linkedin.com/in/sri-vatsav-48445a343" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="LinkedIn" />
-  </a>
-  <a href="mailto:vatsavs906@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="Gmail" />
-  </a>
 </p>
 </td>
 </tr>
@@ -104,7 +98,7 @@
 </td>
 <td align="center" width="65">
 <a href="https://about.gitlab.com/topics/ci-cd/" target="_blank">
-  <img src="https://cdn.simpleicons.org/gitlab/FC6D26" height="35" alt="ci/cd logo" />
+  <img src="https://miro.medium.com/v2/resize:fit:1200/1*QtR4XDH9SgJRmRx08Ngzkg.png" height="35" alt="ci/cd logo" />
 </a><br/>
 <sub><b>CI/CD</b></sub>
 </td>
@@ -136,7 +130,7 @@
 </td>
 <td align="center" width="65">
 <a href="https://thingsboard.io/" target="_blank">
-  <img src="https://cdn.simpleicons.org/thingsboard/135CFB" height="35" alt="thingsboard logo" />
+  <img src="https://play-lh.googleusercontent.com/BXTxLRlIFqL4166N8T96wE39rbKf3-cTp5JSBOtShfyxeUVwFNtJIhGNnSZkIIag0GDuRBfBVVBztzLFlEb1" height="35" alt="thingsboard logo" />
 </a><br/>
 <sub><b>ThingsBoard</b></sub>
 </td>
@@ -184,6 +178,18 @@
 
 ---
 
+### 🌐 Connect With Me
+
+<div align="center">
+  <a href="https://linkedin.com/in/sri-vatsav-48445a343" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
+  </a>
+  <a href="mailto:vatsavs906@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
+  </a>
+</div>
+
+<br/>
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 </div>
