@@ -189,13 +189,6 @@
 </div>
 
 <br/>
-
 <div align="center">
-
-### 🌟 "Where patience meets code, magic happens" ✨
-
-**Thanks for visiting! Let's build something amazing together 🚀**
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
 </div>
