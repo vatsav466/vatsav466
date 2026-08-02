@@ -48,100 +48,107 @@
 
 <table align="center">
 <tr>
-<td align="center" width="90">
+<td align="center" width="65">
 <a href="https://www.python.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo" />
 </a><br/>
 <sub><b>Python</b></sub>
 </td>
-<td align="center" width="90">
+<td align="center" width="65">
 <a href="https://www.postgresql.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" alt="postgresql logo" />
 </a><br/>
 <sub><b>PostgreSQL</b></sub>
 </td>
-<td align="center" width="90">
+<td align="center" width="65">
 <a href="https://fastapi.tiangolo.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="35" alt="fastapi logo" />
 </a><br/>
 <sub><b>FastAPI</b></sub>
 </td>
-<td align="center" width="90">
+<td align="center" width="65">
 <a href="https://redis.io/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="35" alt="redis logo" />
 </a><br/>
 <sub><b>Redis</b></sub>
 </td>
-<td align="center" width="90">
+<td align="center" width="65">
 <a href="https://www.docker.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" alt="docker logo" />
 </a><br/>
 <sub><b>Docker</b></sub>
 </td>
-<td align="center" width="90">
+<td align="center" width="65">
 <a href="https://kubernetes.io/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="35" alt="kubernetes logo" />
 </a><br/>
 <sub><b>Kubernetes</b></sub>
 </td>
-<td align="center" width="90">
+<td align="center" width="65">
 <a href="https://git-scm.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="git logo" />
 </a><br/>
 <sub><b>Git</b></sub>
 </td>
-<td align="center" width="90">
+<td align="center" width="65">
 <a href="https://github.com/features/actions" target="_blank">
-  <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="40" alt="github actions logo" />
+  <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="35" alt="github actions logo" />
 </a><br/>
 <sub><b>GitHub Actions</b></sub>
 </td>
-</tr>
-<tr>
-<td align="center" width="90">
+<td align="center" width="65">
 <a href="https://about.gitlab.com/topics/ci-cd/" target="_blank">
-  <img src="https://miro.medium.com/v2/resize:fit:1200/1*QtR4XDH9SgJRmRx08Ngzkg.png" height="40" alt="ci/cd logo" />
+  <img src="https://miro.medium.com/v2/resize:fit:1200/1*QtR4XDH9SgJRmRx08Ngzkg.png" height="35" alt="ci/cd logo" />
 </a><br/>
-<sub><b>CI/CD Pipelines</b></sub>
+<sub><b>CI/CD</b></sub>
 </td>
-<td align="center" width="90">
+<td align="center" width="65">
 <a href="https://duckdb.org/" target="_blank">
-  <img src="https://cdn.simpleicons.org/duckdb/FFF000" height="40" alt="duckdb logo" />
+  <img src="https://cdn.simpleicons.org/duckdb/FFF000" height="35" alt="duckdb logo" />
 </a><br/>
 <sub><b>DuckDB</b></sub>
 </td>
-<td align="center" width="90">
+<td align="center" width="65">
 <a href="https://www.elastic.co/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" height="40" alt="elasticsearch logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" height="35" alt="elasticsearch logo" />
 </a><br/>
-<sub><b>Elasticsearch</b></sub>
+<sub><b>Elastic</b></sub>
 </td>
-<td align="center" width="90">
+<td align="center" width="65">
 <a href="https://airflow.apache.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" height="40" alt="apache airflow logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" height="35" alt="apache airflow logo" />
 </a><br/>
-<sub><b>Apache Airflow</b></sub>
+<sub><b>Airflow</b></sub>
 </td>
-<td align="center" width="90">
+</tr>
+<tr>
+<td align="center" width="65">
 <a href="https://superset.apache.org/" target="_blank">
-  <img src="https://cdn.simpleicons.org/apachesuperset/00A699" height="40" alt="apache superset logo" />
+  <img src="https://cdn.simpleicons.org/apachesuperset/00A699" height="35" alt="apache superset logo" />
 </a><br/>
-<sub><b>Apache Superset</b></sub>
+<sub><b>Superset</b></sub>
 </td>
-<td align="center" width="90">
+<td align="center" width="65">
 <a href="https://thingsboard.io/" target="_blank">
-  <img src="https://play-lh.googleusercontent.com/BXTxLRlIFqL4166N8T96wE39rbKf3-cTp5JSBOtShfyxeUVwFNtJIhGNnSZkIIag0GDuRBfBVVBztzLFlEb1" height="40" alt="thingsboard logo" />
+  <img src="https://play-lh.googleusercontent.com/BXTxLRlIFqL4166N8T96wE39rbKf3-cTp5JSBOtShfyxeUVwFNtJIhGNnSZkIIag0GDuRBfBVVBztzLFlEb1" height="35" alt="thingsboard logo" />
 </a><br/>
 <sub><b>ThingsBoard</b></sub>
 </td>
-<td align="center" width="90">
+<td align="center" width="65">
 <a href="https://www.kernel.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35" alt="linux logo" />
 </a><br/>
 <sub><b>Linux</b></sub>
 </td>
-<td align="center" width="90">
-</td>
+<td align="center" width="65"></td>
+<td align="center" width="65"></td>
+<td align="center" width="65"></td>
+<td align="center" width="65"></td>
+<td align="center" width="65"></td>
+<td align="center" width="65"></td>
+<td align="center" width="65"></td>
+<td align="center" width="65"></td>
+<td align="center" width="65"></td>
 </tr>
 </table>
 
