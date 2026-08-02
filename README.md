@@ -144,26 +144,14 @@
 </table>
 
 ---
-
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vatsav466&show_icons=true&theme=dracula&hide_border=false" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vatsav466&layout=compact&theme=dracula&hide_border=false" height="165" alt="Top Languages" />
-</div>
-
----
-
 ### 🏆 Trophies
-
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=vatsav466&theme=onedark&column=9&margin-w=8&margin-h=8&no-frame=false" alt="GitHub Trophies" />
 </div>
-
+### 
 ---
 
 ### 👻 Pac-Man Contribution Graph
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/vatsav466/vatsav466/output/pacman-contribution-graph.svg" alt="Pac-Man contribution graph" />
 </div>
