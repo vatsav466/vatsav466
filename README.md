@@ -71,20 +71,49 @@
 <sub><b>Docker</b></sub>
 </td>
 <td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="45" alt="kubernetes logo" /><br/>
+<sub><b>Kubernetes</b></sub>
+</td>
+<td align="center" width="110">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git logo" /><br/>
 <sub><b>Git</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.simpleicons.org/githubactions/2088FF" height="45" alt="github actions logo" /><br/>
+<sub><b>GitHub Actions</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="110">
+<img src="https://cdn.simpleicons.org/duckdb/FFF000" height="45" alt="duckdb logo" /><br/>
+<sub><b>DuckDB</b></sub>
 </td>
 <td align="center" width="110">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" height="45" alt="elasticsearch logo" /><br/>
 <sub><b>Elasticsearch</b></sub>
 </td>
 <td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" height="45" alt="apache airflow logo" /><br/>
+<sub><b>Apache Airflow</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.simpleicons.org/apachesuperset/00A699" height="45" alt="apache superset logo" /><br/>
+<sub><b>Apache Superset</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="110">
+<img src="https://cdn.simpleicons.org/thingsboard/106EBE" height="45" alt="thingsboard logo" /><br/>
+<sub><b>ThingsBoard</b></sub>
+</td>
+<td align="center" width="110">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="linux logo" /><br/>
 <sub><b>Linux</b></sub>
 </td>
+<td align="center" width="110"></td>
+<td align="center" width="110"></td>
 </tr>
 </table>
-
 
 ---
 
