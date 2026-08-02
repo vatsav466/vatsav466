@@ -140,15 +140,6 @@
 </a><br/>
 <sub><b>Linux</b></sub>
 </td>
-<td align="center" width="65"></td>
-<td align="center" width="65"></td>
-<td align="center" width="65"></td>
-<td align="center" width="65"></td>
-<td align="center" width="65"></td>
-<td align="center" width="65"></td>
-<td align="center" width="65"></td>
-<td align="center" width="65"></td>
-<td align="center" width="65"></td>
 </tr>
 </table>
 
@@ -163,16 +154,26 @@
 
 ---
 
-### 🏆 Trophies & Activity Streak
+### 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vatsav466&theme=dracula&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vatsav466&theme=onedark&column=9&margin-w=8&margin-h=8&no-frame=false" alt="GitHub Trophies" />
 </div>
 
-<br/>
+---
+
+### 👻 Pac-Man Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vatsav466&theme=dracula&hide_border=false" height="150" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/vatsav466/vatsav466/output/pacman-contribution-graph.svg" alt="Pac-Man contribution graph" />
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/vatsav466/vatsav466/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
