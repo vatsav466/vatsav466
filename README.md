@@ -46,25 +46,74 @@
 
 ### 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black" />
-  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache%20Superset-00A699?style=for-the-badge&logo=Apache%20Superset&logoColor=white" />
-  <img src="https://img.shields.io/badge/ThingsBoard-106EBE?style=for-the-badge&logo=thingsboard&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
+<table align="center">
+<tr>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo" /><br/>
+<sub><b>Python</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" alt="postgresql logo" /><br/>
+<sub><b>PostgreSQL</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="45" alt="fastapi logo" /><br/>
+<sub><b>FastAPI</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="45" alt="redis logo" /><br/>
+<sub><b>Redis</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" alt="docker logo" /><br/>
+<sub><b>Docker</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="45" alt="kubernetes logo" /><br/>
+<sub><b>Kubernetes</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git logo" /><br/>
+<sub><b>Git</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.simpleicons.org/githubactions/2088FF" height="45" alt="github actions logo" /><br/>
+<sub><b>GitHub Actions</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="110">
+<img src="https://cdn.simpleicons.org/duckdb/FFF000" height="45" alt="duckdb logo" /><br/>
+<sub><b>DuckDB</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" height="45" alt="elasticsearch logo" /><br/>
+<sub><b>Elasticsearch</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" height="45" alt="apache airflow logo" /><br/>
+<sub><b>Apache Airflow</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.simpleicons.org/apachesuperset/00A699" height="45" alt="apache superset logo" /><br/>
+<sub><b>Apache Superset</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="110">
+<img src="https://avatars.githubusercontent.com/u/15024225?s=200&v=4" height="45" alt="thingsboard logo" /><br/>
+<sub><b>ThingsBoard</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="linux logo" /><br/>
+<sub><b>Linux</b></sub>
+</td>
+<td align="center" width="110"></td>
+<td align="center" width="110"></td>
+</tr>
+</table>
 
 ---
 
