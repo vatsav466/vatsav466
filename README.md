@@ -46,6 +46,7 @@
 
 ### 🛠️ Tech Stack
 
+<div align="center">
 <table align="center">
 <tr>
 <td align="center" width="110">
@@ -101,6 +102,9 @@
 <sub><b>Apache Airflow</b></sub>
 </td>
 </tr>
+</table>
+
+<table align="center">
 <tr>
 <td align="center" width="110">
 <img src="https://cdn.simpleicons.org/apachesuperset/00A699" height="45" alt="apache superset logo" /><br/>
@@ -114,9 +118,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="linux logo" /><br/>
 <sub><b>Linux</b></sub>
 </td>
-<td align="center" width="110"></td>
 </tr>
 </table>
+</div>
 
 ---
 
