@@ -151,9 +151,10 @@
 
 ---
 
-### 🏆 Trophies
+### 🏆 GitHub Stats & Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vatsav466&theme=onedark&column=9&margin-w=8&margin-h=8&no-frame=false" alt="GitHub Trophies" />
+  <img src="https://streak-stats.demolab.com?user=vatsav466&locale=en&mode=daily&theme=onedark&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vatsav466&theme=onedark&column=4&margin-w=8&margin-h=8&no-frame=false" height="150" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -166,7 +167,6 @@
 ---
 
 ### 🐍 Contribution Snake
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/vatsav466/vatsav466/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
