@@ -154,16 +154,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=vatsav466&theme=onedark&column=9&margin-w=8&margin-h=8" alt="vatsav466 trophies" />
-  </a>
-</div>
-
----
-
 ### 📈 GitHub Stats
 
 <div align="center">
@@ -190,4 +180,23 @@
   <img src="https://raw.githubusercontent.com/vatsav466/vatsav466/output/snake.svg" alt="Snake animation" />
 </p>
 
-<p align="center"><i>⭐️Always open to interesting Data Analytics/Python opportunities!⭐️</i></p>
+<div align="center">
+
+### 🌟 "Where patience meets code, magic happens" ✨
+
+**Thanks for visiting! Let's build something amazing together 🚀**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=vatsav466&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vatsav466&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="trophy graph" />
+</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vatsav466/vatsav466/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vatsav466/vatsav466/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vatsav466/vatsav466/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
