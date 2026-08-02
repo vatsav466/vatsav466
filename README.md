@@ -85,7 +85,6 @@
 </tr>
 </table>
 
-<p align="center"><b>Also:</b> Pandas · Polars · SQL · Apache Superset · RabbitMQ · SQLAlchemy · ETL · Excel</p>
 
 ---
 
