@@ -19,7 +19,7 @@ jobs:
         with:
           username: ${{ github.repository_owner }}
           output_path: dist/trophy.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.TROPHY_TOKEN }}
 
       - name: Push output to "trophy-output" branch
         uses: crazy-max/ghaction-github-pages@v4
