@@ -1,24 +1,33 @@
 <div align="center">
+
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20%F0%9F%91%8B,%20I'm%20Maddipati%20Srivatsav&fontSize=42&fontAlignY=32&desc=Building%20Digital%20Experiences%20%7C%20One%20Line%20at%20a%20Time&descAlignY=51&descAlign=50&animation=twinkling" width="100%"/>
-<h3 align="center">Data Analyst & Python Developer | Building automated data pipelines, APIs & real-time dashboards</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/📍-Hyderabad,%20India-informational?style=for-the-badge&color=444444" />
-  <img src="https://img.shields.io/badge/Experience-3%2B%20Years-informational?style=for-the-badge&color=444444" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Maddipati%20Srivatsav&fontSize=42&fontAlignY=32&desc=Data%20Analyst%20%26%20Python%20Developer&descAlignY=51&descAlign=50&animation=twinkling" width="100%" />
+</p>
+
+<h1>Hi 👋, I'm Maddipati Srivatsav</h1>
+<h3>Data Analyst & Python Developer | Building automated data pipelines, APIs & real-time dashboards</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/📍-Hyderabad,%20Telangana-informational?style=for-the-badge&color=444444" />
+  <img src="https://img.shields.io/badge/Experience-3%20Years-informational?style=for-the-badge&color=444444" />
   <img src="https://img.shields.io/badge/Open%20to-Work-success?style=for-the-badge&color=2E8B57" />
 </p>
+
 </div>
+
 ---
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently working as a **Data Analyst** at **Algofusion Technologies India Pvt. Ltd.**, building the **Smart Recon** automated banking transaction reconciliation system
-- 💰 Experienced in **cloud cost optimization** — designed RESTful APIs and dashboards that turn raw billing data into actionable insights
-- 📡 Built **real-time IoT monitoring dashboards** (HPCL project) processing live industrial device data
-- 📊 I love turning messy data into **clean pipelines, KPIs, and dashboards** that decision-makers actually use
-- 🌱 Currently deepening my skills in **data modeling, query optimization, and scalable backend architecture**
-- 📫 Reach me at **vatsavs906@gmail.com**
-- 🔗 Connect with me on [LinkedIn](https://linkedin.com/in/sri-vatsav-48445a343)
+- 🔭 Currently working as a **Data Analytics Professional** at **Algofusion Technologies India Pvt. Ltd.**[cite: 1]
+- 🏦 Built **Smart Recon**, an automated banking transaction reconciliation system[cite: 1]
+- ☁️ Experienced in **cloud cost optimization** — designed RESTful APIs (FastAPI) and dashboards to convert billing data into actionable insights[cite: 1]
+- 📡 Built **real-time IoT monitoring dashboards** (HPCL project) processing live industrial device data[cite: 1]
+- 📊 Passionate about converting raw data into **clean pipelines, KPIs, and actionable dashboards**[cite: 1]
+- 🌱 Skilled in **data modeling, query optimization, and scalable backend architecture**[cite: 1]
+- 📫 Reach me at **vatsavs906@gmail.com**[cite: 1]
+- 🔗 Connect with me on [LinkedIn](https://linkedin.com/in/sri-vatsav-48445a343)[cite: 1]
 
 ---
 
@@ -26,10 +35,10 @@
 
 | Area | Highlights |
 |---|---|
-| **Financial Data Reconciliation** | Automated banking transaction reconciliation, cutting manual effort by **60%** via rule-based validation & anomaly detection |
-| **Cloud Cost Analytics** | Built FastAPI + PostgreSQL backends processing large-scale billing datasets for cost optimization insights |
-| **IoT Data Monitoring** | Designed APIs for real-time ingestion of industrial device data with live ThingsBoard dashboards |
-| **Dashboarding & KPIs** | Delivered interactive Apache Superset dashboards for reconciliation status, financial KPIs, and cost analysis |
+| **Financial Data Reconciliation** | Automated banking transaction reconciliation, cutting manual effort by **60%** via rule-based validation & anomaly detection[cite: 1] |
+| **Cloud Cost Analytics** | Built FastAPI + PostgreSQL backends processing large-scale billing datasets for cost optimization insights[cite: 1] |
+| **IoT Data Monitoring** | Designed APIs for real-time ingestion of industrial device data with live ThingsBoard dashboards[cite: 1] |
+| **Dashboarding & KPIs** | Delivered interactive Apache Superset dashboards for reconciliation status, financial KPIs, and cost analysis[cite: 1] |
 
 ---
 
@@ -37,25 +46,47 @@
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" title="Python" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" title="PostgreSQL" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo" title="FastAPI" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo" title="Redis" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" title="Docker" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" title="Git" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" height="40" alt="elasticsearch logo" title="Elasticsearch" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" title="Linux" />
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" alt="Python"/><br><br><b>Python</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" alt="PostgreSQL"/><br><br><b>PostgreSQL</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45" alt="FastAPI"/><br><br><b>FastAPI</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="45" alt="Redis"/><br><br><b>Redis</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" alt="Docker"/><br><br><b>Docker</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" alt="Git"/><br><br><b>Git</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" width="45" alt="Elasticsearch"/><br><br><b>Elastic</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" alt="Linux"/><br><br><b>Linux</b>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<p><b>Also:</b> Pandas • Polars • SQL • Apache Superset • ThingsBoard • RabbitMQ • SQLAlchemy • ETL • Excel</p>
 
 </div>
 
-<p align="center"><b>Also:</b> Pandas · Polars · SQL · Apache Superset · RabbitMQ · SQLAlchemy · ETL · Excel</p>
+---
+
+### 🎓 Education
+
+- **Bachelor of Technology (B.Tech) in Computer Science and Engineering**  
+  *Sri Chandrasekharendra Saraswathi Viswa Mahavidyalaya (SCSVMV)* (2018 – 2022)[cite: 1]
 
 ---
 
@@ -79,10 +110,8 @@
   </a>
 </div>
 
-<br clear="both">
+<br>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vatsav466/vatsav466/output/snake.svg" alt="Snake animation" />
-</p>
-
-<p align="center"><i>⭐️ Thanks for stopping by — always open to interesting Data Analytics / Python opportunities!</i></p>
+<div align="center">
+  <p><i>⭐️ Thanks for stopping by — always open to interesting Data Analytics / Python opportunities!</i></p>
+</div>
