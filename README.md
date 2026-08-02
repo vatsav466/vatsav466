@@ -46,60 +46,121 @@
 
 ### 🛠️ Tech Stack
 
+<table align="center">
+<tr>
+<td align="center" width="110">
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo" />
+</a><br/>
+<sub><b>Python</b></sub>
+</td>
+<td align="center" width="110">
+<a href="https://www.postgresql.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" alt="postgresql logo" />
+</a><br/>
+<sub><b>PostgreSQL</b></sub>
+</td>
+<td align="center" width="110">
+<a href="https://fastapi.tiangolo.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="45" alt="fastapi logo" />
+</a><br/>
+<sub><b>FastAPI</b></sub>
+</td>
+<td align="center" width="110">
+<a href="https://redis.io/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="45" alt="redis logo" />
+</a><br/>
+<sub><b>Redis</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="110">
+<a href="https://www.docker.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" alt="docker logo" />
+</a><br/>
+<sub><b>Docker</b></sub>
+</td>
+<td align="center" width="110">
+<a href="https://kubernetes.io/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="45" alt="kubernetes logo" />
+</a><br/>
+<sub><b>Kubernetes</b></sub>
+</td>
+<td align="center" width="110">
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git logo" />
+</a><br/>
+<sub><b>Git</b></sub>
+</td>
+<td align="center" width="110">
+<a href="https://github.com/features/actions" target="_blank">
+  <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="45" alt="github actions logo" />
+</a><br/>
+<sub><b>GitHub Actions</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="110">
+<a href="https://about.gitlab.com/topics/ci-cd/" target="_blank">
+  <img src="https://miro.medium.com/v2/resize:fit:1200/1*QtR4XDH9SgJRmRx08Ngzkg.png" height="45" alt="ci/cd logo" />
+</a><br/>
+<sub><b>CI/CD Pipelines</b></sub>
+</td>
+<td align="center" width="110">
+<a href="https://duckdb.org/" target="_blank">
+  <img src="https://cdn.simpleicons.org/duckdb/FFF000" height="45" alt="duckdb logo" />
+</a><br/>
+<sub><b>DuckDB</b></sub>
+</td>
+<td align="center" width="110">
+<a href="https://www.elastic.co/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" height="45" alt="elasticsearch logo" />
+</a><br/>
+<sub><b>Elasticsearch</b></sub>
+</td>
+<td align="center" width="110">
+<a href="https://airflow.apache.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" height="45" alt="apache airflow logo" />
+</a><br/>
+<sub><b>Apache Airflow</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="110">
+<a href="https://superset.apache.org/" target="_blank">
+  <img src="https://cdn.simpleicons.org/apachesuperset/00A699" height="45" alt="apache superset logo" />
+</a><br/>
+<sub><b>Apache Superset</b></sub>
+</td>
+<td align="center" width="110">
+<a href="https://thingsboard.io/" target="_blank">
+  <img src="https://play-lh.googleusercontent.com/BXTxLRlIFqL4166N8T96wE39rbKf3-cTp5JSBOtShfyxeUVwFNtJIhGNnSZkIIag0GDuRBfBVVBztzLFlEb1" height="45" alt="thingsboard logo" />
+</a><br/>
+<sub><b>ThingsBoard</b></sub>
+</td>
+<td align="center" width="110">
+<a href="https://www.kernel.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="linux logo" />
+</a><br/>
+<sub><b>Linux</b></sub>
+</td>
+<td align="center" width="110">
+<a href="https://pandas.pydata.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45" alt="pandas logo" />
+</a><br/>
+<sub><b>Pandas</b></sub>
+</td>
+</tr>
+</table>
+
+---
+
+### 🏆 GitHub Trophies
+
 <div align="center">
-
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=vatsav466&theme=dracula&column=7&margin-w=15&margin-h=15&no-bg=true" alt="vatsav466 trophies" />
   </a>
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  </a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank">
-    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  </a>
-  <a href="https://redis.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  </a>
-
-  <br/><br/>
-
-  <a href="https://kubernetes.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  </a>
-  <a href="https://github.com/features/actions" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  </a>
-  <a href="https://about.gitlab.com/topics/ci-cd/" target="_blank">
-    <img src="https://img.shields.io/badge/CI%2FCD_Pipelines-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://duckdb.org/" target="_blank">
-    <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black" />
-  </a>
-
-  <br/><br/>
-
-  <a href="https://www.elastic.co/" target="_blank">
-    <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
-  </a>
-  <a href="https://airflow.apache.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
-  </a>
-  <a href="https://superset.apache.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Apache_Superset-00A699?style=for-the-badge&logo=apachesuperset&logoColor=white" />
-  </a>
-  <a href="https://thingsboard.io/" target="_blank">
-    <img src="https://img.shields.io/badge/ThingsBoard-106EBE?style=for-the-badge&logo=thingsboard&logoColor=white" />
-  </a>
-  <a href="https://www.kernel.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  </a>
-
 </div>
 
 ---
