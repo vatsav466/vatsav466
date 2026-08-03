@@ -2,8 +2,8 @@ name: Generate Pac-Man Game
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: "0 */24 * * *"   # runs once a day
+  workflow_dispatch: {}
   push:
     branches:
       - main
@@ -13,21 +13,17 @@ jobs:
     permissions:
       contents: write
     runs-on: ubuntu-latest
-
+    timeout-minutes: 5
     steps:
       - name: Generate pacman-contribution-graph.svg
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
+          theme: dark                       # Sets the overall dark mode
+          background_color: "#000000"       # Sets pure black background
 
-      - name: Make background black
-        run: |
-          sed -i 's/fill="white"/fill="black"/g' dist/pacman-contribution-graph.svg
-          sed -i 's/#ffffff/#000000/g' dist/pacman-contribution-graph.svg
-          sed -i 's/rgb(255,255,255)/rgb(0,0,0)/g' dist/pacman-contribution-graph.svg
-
-      - name: Push SVG
-        uses: crazy-max/ghaction-github-pages@v2.1.3
+      - name: Push pacman-contribution-graph.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
