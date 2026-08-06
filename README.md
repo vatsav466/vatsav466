@@ -1,24 +1,24 @@
 <div align="center">
   <!-- Animated Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20%F0%9F%91%8B,%20I'm%EthanHunt&fontSize=42&fontAlignY=32&desc=Building%20Digital%20Experiences%20%7C%20One%20Line%20at%20a%20Time&descAlignY=51&descAlign=50&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20%F0%9F%91%8B,%20I'm%20Sri%20Vatsav&fontSize=42&fontAlignY=32&desc=Building%20Digital%20Experiences%20%7C%20One%20Line%20at%20a%20Time&descAlignY=51&descAlign=50&animation=twinkling" width="100%"/>
 </div>
 
 <table>
 <tr>
 <td width="160" align="center">
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="140" />
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="140" alt="Coding GIF" />
 </td>
 <td>
-  <h3 align="center">Data Analyst & Python Developer | Building automated data pipelines, APIs & real-time dashboards</h3>
+  <h3 align="center">Data Analyst &amp; Python Developer | Building automated data pipelines, APIs &amp; real-time dashboards</h3>
   <p align="center">
-    <img src="https://img.shields.io/badge/📍-Hyderabad,%20India-informational?style=for-the-badge&color=444444" />
-    <img src="https://img.shields.io/badge/Experience-3%2B%20Years-informational?style=for-the-badge&color=444444" />
-    <img src="https://img.shields.io/badge/Open%20to-Work-success?style=for-the-badge&color=2E8B57" />
+    <img src="https://img.shields.io/badge/📍-Hyderabad,%20India-informational?style=for-the-badge&amp;color=444444" alt="Location" />
+    <img src="https://img.shields.io/badge/Experience-3%2B%20Years-informational?style=for-the-badge&amp;color=444444" alt="Experience" />
+    <img src="https://img.shields.io/badge/Open%20to-Work-success?style=for-the-badge&amp;color=2E8B57" alt="Open to Work" />
     <a href="https://linkedin.com/in/sri-vatsav-48445a343" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="LinkedIn" />
+      <img src="https://img.shields.io/static/v1?message=LinkedIn&amp;logo=linkedin&amp;label=&amp;color=0077B5&amp;logoColor=white&amp;labelColor=&amp;style=for-the-badge" height="28" alt="LinkedIn" />
     </a>
     <a href="mailto:vatsavs906@gmail.com">
-      <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="Gmail" />
+      <img src="https://img.shields.io/static/v1?message=Gmail&amp;logo=gmail&amp;label=&amp;color=D14836&amp;logoColor=white&amp;labelColor=&amp;style=for-the-badge" height="28" alt="Gmail" />
     </a>
   </p>
 </td>
@@ -104,7 +104,7 @@
 </td>
 <td align="center" width="65">
 <a href="https://about.gitlab.com/topics/ci-cd/" target="_blank">
-  <img src="https://miro.medium.com/v2/resize:fit:1200/1*QtR4XDH9SgJRmRx08Ngzkg.png" height="35" alt="ci/cd logo" />
+  <img src="https://cdn.simpleicons.org/gitlab/FC6D26" height="35" alt="ci/cd logo" />
 </a><br/>
 <sub><b>CI/CD</b></sub>
 </td>
@@ -136,7 +136,7 @@
 </td>
 <td align="center" width="65">
 <a href="https://thingsboard.io/" target="_blank">
-  <img src="https://play-lh.googleusercontent.com/BXTxLRlIFqL4166N8T96wE39rbKf3-cTp5JSBOtShfyxeUVwFNtJIhGNnSZkIIag0GDuRBfBVVBztzLFlEb1" height="35" alt="thingsboard logo" />
+  <img src="https://cdn.simpleicons.org/thingsboard/1352A2" height="35" alt="thingsboard logo" />
 </a><br/>
 <sub><b>ThingsBoard</b></sub>
 </td>
@@ -154,7 +154,7 @@
 ### 🏆 Trophies
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/vatsav466/vatsav466/trophy-output/trophy.svg" height="150" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vatsav466&theme=flat" height="150" alt="GitHub Trophies" />
 </div>
 
 ---
