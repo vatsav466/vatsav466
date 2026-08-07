@@ -1,7 +1,6 @@
 <div align="center">
   <!-- Animated Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20%F0%9F%91%8B,%20I'm%20Sri%20Vatsav&fontSize=42&fontAlignY=32&desc=Building%20Digital%20Experiences%20%7C%20One%20Line%20at%20a%20Time&descAlignY=51&descAlign=50&animation=twinkling" width="100%"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20%F0%9F%91%8B,%20I'm%20Ethan%20Hunt&fontSize=42&fontAlignY=32&desc=Building%20Digital%20Experiences%20%7C%20One%20Line%20at%20a%20Time&descAlignY=51&descAlign=50&animation=twinkling" width="100%"/></div>
 
 <table>
 <tr>
